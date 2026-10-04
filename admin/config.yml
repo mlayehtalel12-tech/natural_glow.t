@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: your-github-username/your-repo-name # اكتب هنا اسم حسابك واسم المستودع على جيتهاب
+  branch: main # اسم الفرع الخاص بك
